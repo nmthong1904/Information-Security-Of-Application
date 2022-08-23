@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/ads"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/watch_ads"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/Interstitial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/interstitial_ads"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/reward"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/reward_ads"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/qrcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/qr_code"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/recaptcha"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/smsverify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sms_verify"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/biometric"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/biometric"/>
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/pincode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pin_code"/>
+    <com.google.android.material.button.MaterialButton
+        android:filterTouchesWhenObscured="true"
+        android:id="@+id/host"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/host"/>
+
+
+
+</LinearLayout>

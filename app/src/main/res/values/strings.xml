@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AdsApplication</string>
+    <string name="impossible_game">Impossible Game</string>
+    <string name="retry_button_text">Retry</string>
+    <string name="watch_video_button_text">Watch Video for 10 additional coins</string>
+    <string name="default_coin_text">Coins: 0</string>
+    <!--Test Ids-->
+
+    <string name="app_id_test">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_id_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id_test">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--Live Ids-->
+    <string name="app_id_live">ca-app-pub-5526997307767586~7137932764</string>
+    <string name="banner_id_live">ca-app-pub-55269973077767586/5562795519</string>
+    <string name="interstitial_id_live">ca-app-pub-55269973077767586/1729709329</string>
+    <string name="click_verify_to_check_authentication">Click Verify to Check Authentication</string>
+    <string name="verify">Verify</string>
+    <string name="retry">Retry</string>
+    <string name="watch_ads">Watch Ads</string>
+    <string name="interstitial_ads">Interstitial Ads</string>
+    <string name="reward_ads">Reward Ads</string>
+    <string name="qr_code">QR Code</string>
+    <string name="recaptcha">Recaptcha</string>
+    <string name="sms_verify">SMS Verify</string>
+    <string name="biometric">Biometric</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="clear">Clear</string>
+    <string name="barcode_amp_qr_code_scanner"><![CDATA[Barcode & QR Code Scanner]]></string>
+    <string name="camera">Camera</string>
+    <string name="choose_in_library">Choose In Library</string>
+    <string name="scan">Scan</string>
+    <string name="result">Result</string>
+    <string name="google_recaptcha">Google Recaptcha</string>
+    <string name="verify_captcha">Verify captcha</string>
+    <string name="xxx_xxx_xxx">XXX-XXX-XXX</string>
+    <string name="submit">Submit</string>
+    <string name="enter_otp_code">Enter OTP Code</string>
+    <string name="please_enter_otp_code">Please enter OTP Code</string>
+    <string name="resend">Resend</string>
+    <string name="hello">Hello</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="host">Host</string>
+    <string name="item">Item</string>
+
+</resources>
+
